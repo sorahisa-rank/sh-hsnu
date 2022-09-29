@@ -1,0 +1,15 @@
+{
+    "name": "\u8f49\u79fb\u64da\u9ede",
+    "short_name": "Rotate",
+    "contest": "contest_2d2022",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (12)",
+        "Subtask 3 (51)",
+        "Subtask 4 (37)"
+    ],
+    "order": 3,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

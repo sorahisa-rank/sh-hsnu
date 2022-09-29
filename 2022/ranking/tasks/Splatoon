@@ -1,0 +1,18 @@
+{
+    "name": "\u65af\u666e\u62c9\u9041",
+    "short_name": "Splatoon",
+    "contest": "contest_2d2022",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (4)",
+        "Subtask 3 (9)",
+        "Subtask 4 (13)",
+        "Subtask 5 (20)",
+        "Subtask 6 (12)",
+        "Subtask 7 (42)"
+    ],
+    "order": 4,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}

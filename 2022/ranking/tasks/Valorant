@@ -1,0 +1,17 @@
+{
+    "name": "\u7279\u6230\u82f1\u8c6a",
+    "short_name": "Valorant",
+    "contest": "contest_2d2022",
+    "max_score": 100.0,
+    "extra_headers": [
+        "Subtask 1 (0)",
+        "Subtask 2 (4)",
+        "Subtask 3 (7)",
+        "Subtask 4 (9)",
+        "Subtask 5 (9)",
+        "Subtask 6 (71)"
+    ],
+    "order": 0,
+    "score_mode": "max_subtask",
+    "score_precision": 0
+}
