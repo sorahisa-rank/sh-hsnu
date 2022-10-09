@@ -5,6 +5,6 @@
     -   [截圖](https://sorahisa-rank.github.io/sh-hsnu/2021/ranking.png)
 -   [2022 on Codeforces](https://codeforces.com/contestInvitation/2cae2b9b61009387db71817e4cb8d75a09acb2c9)
     -   [資訊 on HackMD](https://hackmd.io/@wiwiho/hsnu-contest-2022-mirror)
-    -   題目
-    -   題解
+    -   [題目](https://sorahisa-rank.github.io/sh-hsnu/2022/problems.pdf)
+    -   [題解 on HackMD](https://hackmd.io/@wiwiho/hsnu-contest-2022-sol#/)
     -   [正式賽](https://sorahisa-rank.github.io/sh-hsnu/2022/ranking/)
